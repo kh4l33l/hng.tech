@@ -71,6 +71,9 @@
       case '/interns/aniebiet' :
           require __DIR__ . '/views/interns/aniebiet.php';
           break;
+      case '/interns/ibrahim' :
+          require __DIR__ . '/views/interns/aniebiet.php';
+          break;
       default:
           require __DIR__ . '/views/404.php';
           break;
